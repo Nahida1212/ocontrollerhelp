@@ -34,7 +34,7 @@ public class OcontrollerhelpModClient implements ClientModInitializer {
 				new KeyMapping(
 						"key.ocontrollerhelp-mod.lock", // The translation key for the key mapping.
 						InputConstants.Type.KEYSYM, // The type of the keybinding; KEYSYM for keyboard, MOUSE for mouse.
-						GLFW.GLFW_KEY_R, // The GLFW keycode of the key.
+						GLFW.GLFW_KEY_J, // The GLFW keycode of the key.
 						controllerAim // The category of the mapping.
 				));
 
